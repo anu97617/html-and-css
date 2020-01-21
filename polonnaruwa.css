@@ -1,0 +1,36 @@
+body
+{
+	background: url(ssss.jpg);
+	background-size: cover;
+}
+.polonnaruwa{
+	background-image: url(1122.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: black;
+	font-size: 50px;
+	font-style: bold;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.polonnaruwa p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter
+{
+    font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}

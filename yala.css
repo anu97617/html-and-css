@@ -1,0 +1,36 @@
+body
+{
+	background: url(sssy.jpg);
+	background-size: cover;
+}
+.yala{
+	background-image: url(4y.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: white;
+	font-size: 50px;
+	font-style: bold;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+	padding-top: 20px;
+}
+.yala p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter{
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-top: 50px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+}

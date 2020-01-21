@@ -1,0 +1,35 @@
+body{
+	background: url(sssn.jpg);
+	background-size: cover;
+}
+.nuwaraeliya{
+	background-image: url(333n.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: white;
+	font-size: 50px;
+	font-style: bold;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+	padding-top: 20px;
+}
+.nuwaraeliya p{
+	margin-right: 1100px;
+	color: white;
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter{
+	font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
